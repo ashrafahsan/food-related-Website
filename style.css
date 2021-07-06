@@ -31,7 +31,7 @@ li{
 /* section-1 */
 .section-1{
     margin-top:-100px;
-    background-image:url(/images/shapes/7.png);
+    background-image:url(images/shapes/7.png);
     background-position:center center;
     background-size: cover;
     background-repeat:no-repeat;
@@ -74,7 +74,7 @@ li{
 
 .section-2{
     background-color:mintcream;
-    background-image:url(/images/shapes/ast.png);
+    background-image:url(images/shapes/ast.png);
     background-position:center;
     background-size:cover;
     background-repeat: no-repeat;
